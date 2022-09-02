@@ -1,0 +1,8 @@
+wft.src.domain (使用以前的DNS流量进行源/域解析)
+wft.src.detection (使用IOC数据进行源IP/域检测)
+wft.src.severity (使用IOC数据的源IP/域检测漏洞严重性)
+wft.src.threat_type (使用IOC数据的源IP/域检测威胁类型的严重性)
+wft.src.tags (源IP/域资产标签)
+wft.src.os (漏洞报告中指定的源IP/域操作系统)
+wft.src.cve_ids (源IP/域的CVE ID列表，以逗号分隔)
+wft.src.top_cvss_score (给定主机的所有CVE ID中的CVSS评分)
